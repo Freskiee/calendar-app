@@ -12,7 +12,7 @@ export const getMessagesEs = () => {
         date: 'Fecha',
         time: 'Hora',
         event: 'Evento',
-        noEventsInRange: 'eventos en este rango',
+        noEventsInRange: 'No hay eventos en este rango',
         showMore: total => `+ Ver más (${total})`
     };
 };
