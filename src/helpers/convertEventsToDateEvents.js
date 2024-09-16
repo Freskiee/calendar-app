@@ -9,6 +9,6 @@ export const convertEventsToDateEvents = (events = []) => {
         event.end = parseISO(event.end);
 
         return event;
-    })
+    });
 
 };
