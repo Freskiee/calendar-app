@@ -8,12 +8,12 @@ const loginFormFields = {
     loginPassword: ''
 };
 
-const registerFormFields = {
-    registerName: '',
-    registerEmail: '',
-    registerPassword: '',
-    registerPassword2: ''
-};
+// const registerFormFields = {
+//     registerName: '',
+//     registerEmail: '',
+//     registerPassword: '',
+//     registerPassword2: ''
+// };
 
 export const LoginPage = () => {
 
